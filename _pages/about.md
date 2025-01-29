@@ -31,10 +31,10 @@ Research Interests
 
 Industrial Experience
 =====
-+ **ByteDance Seed Team**: \
-  Research Intern (Jul. 2024 - Now) \
-  Mentor: Shufan Liu \
-  Topic: LLM Serving System Optimization
++ **ByteDance Seed Team**:
+  + Research Intern (Jul. 2024 - Now)
+  + Mentor: Shufan Liu
+  + Topic: LLM Serving System Optimization
   
 
 Awards and Honors
