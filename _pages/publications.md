@@ -25,7 +25,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 + International Conference on Architectural Support for Programming Languages and Operating Systems **(ASPLOS)**, 2024
 
 
-[**PIM-DL: Expanding the Applicability of Commodity DRAM-PIMs for Deep Learning via Algorithm-System Co-Optimization**](/pubications/2024-1-pimdl)
+[**PIM-DL: Expanding the Applicability of Commodity DRAM-PIMs for Deep Learning via Algorithm-System Co-Optimization**](/publications/2024-1-pimdl)
 + <strong>Cong Li</strong>, Zhe Zhou, Yang Wang, Fan Yang, Ting Cao, Mao Yang, Yun Liang, Guangyu Sun
 + International Conference on Architectural Support for Programming Languages and Operating Systems **(ASPLOS)**, 2024
 
