@@ -11,15 +11,18 @@ redirect_from:
 [*Center for Energy-efficient Computing and Applications (CECA)*](https://ceca.pku.edu.cn/en/home/index.htm)  
 [*School of Integrated Circuits*](https://ic.pku.edu.cn/)  
 [*Peking University*](https://english.pku.edu.cn/)  
-*Room 519, Science Building #5, 5 Yiheyuan Road, Beijing, China, 100871*  
+*Room 512, Science Building #5, 5 Yiheyuan Road, Beijing, China, 100871*  
 
 I am a third-year Ph.D. candidate at Peking University. I am affiliated with [Center for Energy-efficient Computing and Applications (CECA)](https://ceca.pku.edu.cn/en/home/index.htm), supervised by Prof. [Guangyu Sun](http://ceca.pku.edu.cn/en/people_/faculty_/guangyu_sun/).
 My research mainly focus on alleviating the memory wall problem via architecture and system innovations, especialy in deep learning scenarios (e.g., LLM inference & serving, large embedding model inference, emerging algorithms, etc.). I have published as the (co-)first author in top-tier computer architecture/system conferences including **ASPLOS, HPCA (won best paper award), DAC, PACT**.
 
 Education
 ======
-+ Ph.D. candidate in Integrated Science and Engineering, School of Integrated Circuits, Peking University, 2022-now
-+ B.Sc. in computer science, School of EECS, Peking University, 2018-2022 (Double Major: Economics)
++ Ph.D. candidate in Integrated Science and Engineering
+  + School of Integrated Circuits, Peking University, 2022-now
++ B.Sc. in computer science
+  + School of EECS, Peking University, 2018-2022 
+  + Double Major: Economics
 
 Research Interests
 =====
