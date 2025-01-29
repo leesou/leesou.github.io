@@ -1,9 +1,19 @@
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 [*Center for Energy-efficient Computing and Applications (CECA)*](https://ceca.pku.edu.cn/en/home/index.htm)  
 [*School of Integrated Circuits*](https://ic.pku.edu.cn/)  
 [*Peking University*](https://english.pku.edu.cn/)  
 *Room 519, Science Building #5, 5 Yiheyuan Road, Beijing, China, 100871*  
 
-I am a first-year Ph.D. student in the [School of Integrated Circuits](https://ic.pku.edu.cn/) at [Peking University](https://english.pku.edu.cn/). I am affiliated with [Center for Energy-efficient Computing and Applications (CECA)](https://ceca.pku.edu.cn/en/home/index.htm), supervised by Prof. [Guangyu Sun](http://ceca.pku.edu.cn/en/people_/faculty_/guangyu_sun/). 
+I am a third-year Ph.D. candidate in the [School of Integrated Circuits](https://ic.pku.edu.cn/) at [Peking University](https://english.pku.edu.cn/). I am affiliated with [Center for Energy-efficient Computing and Applications (CECA)](https://ceca.pku.edu.cn/en/home/index.htm), supervised by Prof. [Guangyu Sun](http://ceca.pku.edu.cn/en/people_/faculty_/guangyu_sun/). 
 
 Research Interests
 =====
