@@ -9,13 +9,23 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Conference Papers
 
+**H$^2$-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference**
++ **Cong Li**, Yihan Yin, Xintong Wu, Jingchen Zhu, Zhutianya Gao, Dimin Niu, Qiang Wu, Xin Si, Yuan Xie, Chen Zhang, Guangyu Sun
++ International Symposium on Computer Architecture **(ISCA)**, 2025
+
+**AIM: Software and Hardware Co-design for Architecture-level IR-drop Mitigation in High-performance PIM**
++ Yuanpeng Zhang, Xing Hu, Xi Chen, Zhihang Yuan, **Cong Li**, Jingchen Zhu, Zhao Wang, Chenguang Zhang, Xin Si, Wei Gao, Qiang Wu, Runsheng Wang, Guangyu Sun
++ International Symposium on Computer Architecture **(ISCA)**, 2025
+
+
 **CtXnL: A Software-Hardware Co-Designed Solution for Efficient CXL-Based Transaction Processing**
 + Zhao Wang, Yiqi Chen, **Cong Li**, Yijin Guan, Dimin Niu, Tianchan Guan, Zhaoyang Du, Xingda Wei, Guangyu Sun
 + International Conference on Architectural Support for Programming Languages and Operating Systems **(ASPLOS)**, 2025
 
 
 **UniNDP: A Unified Compilation and Simulation Tool for Near DRAM Processing Architectures**
-+ Tongxin Xie*, Zhenhua Zhu*, Bing Li, Yukai He, **Cong Li**, Guangyu Sun,
++ ***Best Paper Honorable Mention (2 of 113 accepted submissions)***
++ Tongxin Xie\*, Zhenhua Zhu\*, Bing Li, Yukai He, **Cong Li**, Guangyu Sun,
  Huazhong Yang, Yuan Xie, and Yu Wang
 + International Symposium on High-Performance Computer Architecture **(HPCA)**, 2025
 

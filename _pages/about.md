@@ -13,8 +13,8 @@ redirect_from:
 [*Peking University*](https://english.pku.edu.cn/)  
 *Room 512, Science Building #5, 5 Yiheyuan Road, Beijing, China, 100871*  
 
-I am a third-year Ph.D. candidate at Peking University. I am affiliated with [Center for Energy-efficient Computing and Applications (CECA)](https://ceca.pku.edu.cn/en/home/index.htm), supervised by Prof. [Guangyu Sun](http://ceca.pku.edu.cn/en/people_/faculty_/guangyu_sun/).
-My research mainly focus on alleviating the memory wall problem via architecture and system innovations, especialy in deep learning scenarios (e.g., LLM inference & serving, large embedding model inference, emerging algorithms, etc.). I have published as the (co-)first author in top-tier computer architecture/system conferences including **ASPLOS, HPCA (won best paper award), DAC, PACT**.
+I am a third-year Ph.D. candidate at Peking University, supervised by Prof. [Guangyu Sun](http://ceca.pku.edu.cn/en/people_/faculty_/guangyu_sun/).
+My research mainly focus on alleviating the memory wall problem via architecture and system innovations, especialy in deep learning scenarios (e.g., LLM inference & serving, large embedding model inference, emerging algorithms, etc.). I have published as the (co-)first author in top-tier computer architecture/system conferences including **ISCA, ASPLOS, HPCA (won best paper award), DAC, PACT**.
 
 Education
 ======
@@ -40,6 +40,7 @@ Industrial Experience
 Awards and Honors
 ======
 + HPCA Best Paper Award: 2023 (2 positions)
++ HPCA Best Paper Honorable Mention: 2025 (2 positions)
 + China National Scholarship: 2024 (top 2%)
 + President Award of Peking University: 2023, 2024 (top 2%)
 + Huawei Scholarship: 2023 
