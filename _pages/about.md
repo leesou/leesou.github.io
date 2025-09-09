@@ -17,33 +17,43 @@ I am a fourth-year Ph.D. candidate at Peking University, supervised by Prof. [Gu
 My research primarily focuses on alleviating the memory wall problem through architectural and system innovations, particularly in deep learning scenarios (e.g., LLM inference and serving, large embedding model inference, and emerging algorithms).
 I have published as the (co-)first author in top-tier computer architecture/system conferences including **ISCA (won best paper award), ASPLOS, HPCA (won best paper award), DAC, PACT**.
 
-Education
-======
+
+
+
+# Education
+
 + Ph.D. candidate in Integrated Science and Engineering
   + School of Integrated Circuits, Peking University, 2022-now
 + B.Sc. in computer science
   + School of EECS, Peking University, 2018-2022 
   + Double Major: Economics
 
-Research Interests
-=====
+
+
+
+# Research Interests
+
 + **Near-Data Proccessing**: Architecting domain-specific accelerators to alleviate memory wall issues in LLM inference, large embedding model inference, generic computation, etc.
 + **LLM Serving System Optimization**: EEnhancing LLM serving quality via system-level optimizations.
 
-Industrial Experience
-=====
+
+
+
+# Industrial Experience
+
 + **ByteDance Seed Team**:
   + Research Intern (Jul. 2024 - Now)
   + Mentor: Shufan Liu
   + Topic: LLM Serving System Optimization
   
 
-Awards and Honors
-======
+# Awards and Honors
+
 ## Academic Awards
 + ISCA Best Paper Award, 2025 (2 positions, first time in China)
 + HPCA Best Paper Honorable Mention: 2025 (2 positions)
 + HPCA Best Paper Award: 2023 (2 positions, first time in China)
+
 ## Scholarships
 + China National Scholarship: 2024 (top 2%)
 + President Award of Peking University: 2023, 2024 (top 2%)
