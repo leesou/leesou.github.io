@@ -13,8 +13,9 @@ redirect_from:
 [*Peking University*](https://english.pku.edu.cn/)  
 *Room 512, Science Building #5, 5 Yiheyuan Road, Beijing, China, 100871*  
 
-I am a third-year Ph.D. candidate at Peking University, supervised by Prof. [Guangyu Sun](http://ceca.pku.edu.cn/en/people_/faculty_/guangyu_sun/).
-My research mainly focus on alleviating the memory wall problem via architecture and system innovations, especialy in deep learning scenarios (e.g., LLM inference & serving, large embedding model inference, emerging algorithms, etc.). I have published as the (co-)first author in top-tier computer architecture/system conferences including **ISCA, ASPLOS, HPCA (won best paper award), DAC, PACT**.
+I am a fourth-year Ph.D. candidate at Peking University, supervised by Prof. [Guangyu Sun](http://ceca.pku.edu.cn/en/people_/faculty_/guangyu_sun/).
+My research primarily focuses on alleviating the memory wall problem through architectural and system innovations, particularly in deep learning scenarios (e.g., LLM inference and serving, large embedding model inference, and emerging algorithms).
+I have published as the (co-)first author in top-tier computer architecture/system conferences including **ISCA (won best paper award), ASPLOS, HPCA (won best paper award), DAC, PACT**.
 
 Education
 ======
@@ -27,7 +28,7 @@ Education
 Research Interests
 =====
 + **Near-Data Proccessing**: Architecting domain-specific accelerators to alleviate memory wall issues in LLM inference, large embedding model inference, generic computation, etc.
-+ **LLM Serving System Optimization**: Enhancing LLM serving quality via system-level (scheduling, operator) optimizations.
++ **LLM Serving System Optimization**: EEnhancing LLM serving quality via system-level optimizations.
 
 Industrial Experience
 =====
@@ -39,8 +40,11 @@ Industrial Experience
 
 Awards and Honors
 ======
-+ HPCA Best Paper Award: 2023 (2 positions)
+## Academic Awards
++ ISCA Best Paper Award, 2025 (2 positions, first time in China)
 + HPCA Best Paper Honorable Mention: 2025 (2 positions)
++ HPCA Best Paper Award: 2023 (2 positions, first time in China)
+## Scholarships
 + China National Scholarship: 2024 (top 2%)
 + President Award of Peking University: 2023, 2024 (top 2%)
 + Huawei Scholarship: 2023 
