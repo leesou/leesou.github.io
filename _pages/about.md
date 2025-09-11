@@ -34,7 +34,7 @@ I have published as the (co-)first author in top-tier computer architecture/syst
 # Research Interests
 
 + **Near-Data Proccessing**: Architecting domain-specific accelerators to alleviate memory wall issues in LLM inference, large embedding model inference, generic computation, etc.
-+ **LLM Serving System Optimization**: EEnhancing LLM serving quality via system-level optimizations.
++ **LLM Serving System Optimization**: Enhancing LLM serving quality via system-level optimizations.
 
 
 
