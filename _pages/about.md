@@ -18,7 +18,7 @@ My research primarily focuses on alleviating the memory wall problem through arc
 I have published as the (co-)first author in top-tier computer architecture/system conferences including **ISCA (won best paper award), ASPLOS, HPCA (won best paper award), DAC, PACT**.
 
 
-<span style="color:red"> I am expected to graduate in 2027 and am open to industry positions under top-talent programs. If you are aware of suitable or well-matched positions, please free to contact me via [email](mailto:leesou@pku.edu.cn). </span>
+<span style="color:red"> I am expected to graduate in 2027 and am open to industry positions (especially to top-talent programs). If you are aware of suitable or well-matched positions, please free to contact me via [email](mailto:leesou@pku.edu.cn). </span>
 
 
 # Education
