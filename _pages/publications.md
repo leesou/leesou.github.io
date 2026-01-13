@@ -71,3 +71,12 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 
+## Journal Papers
+
+### 2025
+
+[**Pac-PIM: A Parallel Communication Framework for Commodity Processing-in-memory Systems**](/publications/2025-5-pacpim)  
++ Fan Yang, Zhe Zhou, <strong>Cong Li</strong>, Tsung-Yi Ho, Ming-Chang Yang
++ ACM Transactions on Architecture and Code Optimization **(TACO)**, 2025
+
+
