@@ -18,6 +18,7 @@ My research primarily focuses on alleviating the memory wall problem through arc
 I have published as the (co-)first author in top-tier computer architecture/system conferences including **ISCA (won best paper award), ASPLOS, HPCA (won best paper award), DAC, PACT**.
 
 
+<span style="color:red"> I am expected to graduate in 2027 and am open to industry positions under top-talent programs. If you are aware of suitable or well-matched positions, please free to contact me via [email](leesou@pku.edu.cn). </span>
 
 
 # Education
@@ -33,18 +34,28 @@ I have published as the (co-)first author in top-tier computer architecture/syst
 
 # Research Interests
 
-+ **Near-Data Proccessing**: Architecting domain-specific accelerators to alleviate memory wall issues in LLM inference, large embedding model inference, generic computation, etc.
-+ **LLM Serving System Optimization**: Enhancing LLM serving quality via system-level optimizations.
++ **Machine Learning System**
+  + **LLM Serving System Optimization**: Enhancing LLM serving quality through optimizing request scheduling and model parallelism strategies, and implement them into LLM serving frameworks.
+  + **Operator Optimization on Emerging Hardware**: Enhancing resource utilization on emerging AI chip products by customizing operator mapping and execution dataflow.
+
++ **Domain Specific Architecture**
+  + **Data-centric Application Acceleration**: Architecting domain-specific accelerators to alleviate memory wall issues in LLM inference, large embedding model inference, generic computation, etc.
+  + **3D-DRAM-based LLM Inference Accelerator Design**: Leveraging hybrid-bonding-based 3D-integration to accelerate LLM inference in a wide range of scenarios (e.g., edge-side LLM inference, cloud-level LLM serving, etc.).
 
 
 
 
 # Industrial Experience
 
-+ **ByteDance Seed Team**:
-  + Research Intern (Jul. 2024 - Now)
++ **Alibaba Damo Academy**
+  + Research Intern (Nov. 2024 - Now)
+  + Mentor: Boqiang Wu, Dimin Niu
+  + Topic: (1) Architecture design for 3D-DRAM-based LLM serving accelerator. (2) Operator optimization for 3D-DRAM-based LLM serving accelerator.
+
++ **ByteDance Seed Team**
+  + Research Intern (Jul. 2024 - Oct. 2025)
   + Mentor: Shufan Liu
-  + Topic: LLM Serving System Optimization
+  + Topic: (1) Long-context LLM serving system optimization. (2) Performance modelling and simulation for large-scale LLM serving cluster.
   
 
 
@@ -59,11 +70,13 @@ I have published as the (co-)first author in top-tier computer architecture/syst
 
 **Scholarships**
 
++ Bytedance Scholarship: 2025 (20 graduate sutdents in China/Singapore)
 + China National Scholarship: 2024 (top 2%)
 + President Award of Peking University: 2023, 2024 (top 2%)
-+ Huawei Scholarship: 2023 
++ Huawei Scholarship: 2023, 2025
++ Third Prize of Peking University Scholarship: 2023
 + Excellent Graduate, Peking University: 2022
-+ Yang Xin Lotus Virtue Awards, Peking University: 2021
++ Yang Xin Lotus Virtue Awards (Scholarship), Peking University: 2021
 + Shenzhen Stock Exchange Scholarship, Peking University: 2020
 + Founder Scholarship, Peking University: 2019
 + Merit Student, Peking University: 2019, 2020, 2021 (Undergraduate), 2023, 2024 (Graduate)
