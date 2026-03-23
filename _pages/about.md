@@ -48,7 +48,7 @@ I have published as the (co-)first author in top-tier computer architecture/syst
 # Industrial Experience
 
 + **Alibaba Damo Academy**
-  + Research Intern (Nov. 2024 - Now)
+  + Research Intern (Nov. 2025 - Now)
   + Mentor: Boqiang Wu, Dimin Niu
   + Topic: (1) Architecture design for 3D-DRAM-based LLM serving accelerator. (2) Operator optimization for 3D-DRAM-based LLM serving accelerator.
 
