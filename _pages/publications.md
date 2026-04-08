@@ -10,6 +10,16 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Conference Papers
 
 
+### 2026
+
+[**Tetris: Efficient Long-context LLM Serving with Chunkwise Dynamic Sequence Parallelism**](/publications/2026-2-tetris)
++ **Cong Li**, Yuzhe Yang, Xuegui Zheng, Qifan Yang, Yijin Guan, Size Zheng, Li-Wen Chang, Shufan Liu, Xin Liu, Guangyu Sun
++ International Symposium on Computer Architecture **(ISCA)**, 2026
+
+[**Maple: Efficient Data-Transfer-Aware Mapping Exploration for NDP-enabled Edge LLM Inference**](/publications/2026-1-maple)
++ Xuefeng Hua\*, <strong>Cong Li\*</strong>, Xin Si, Qiang Wu, Guangyu Sun (<strong>* denotes co-first authors.</strong>)
++ + Design Automation Conference **(DAC)**, 2026
+
 ### 2025
 
 
