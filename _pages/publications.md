@@ -18,7 +18,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 [**Maple: Efficient Data-Transfer-Aware Mapping Exploration for NDP-enabled Edge LLM Inference**](/publications/2026-1-maple)
 + Xuefeng Hua\*, <strong>Cong Li\*</strong>, Xin Si, Qiang Wu, Guangyu Sun (<strong>* denotes co-first authors.</strong>)
-+ + Design Automation Conference **(DAC)**, 2026
++ Design Automation Conference **(DAC)**, 2026
 
 ### 2025
 
