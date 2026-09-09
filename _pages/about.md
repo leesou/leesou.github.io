@@ -13,7 +13,7 @@ redirect_from:
 [*Peking University*](https://english.pku.edu.cn/)  
 *Room 512, Science Building #5, 5 Yiheyuan Road, Beijing, China, 100871*  
 
-I am a fourth-year Ph.D. candidate at Peking University, supervised by Prof. [Guangyu Sun](http://ceca.pku.edu.cn/en/people_/faculty_/guangyu_sun/).
+I am a final-year Ph.D. candidate at Peking University, supervised by Prof. [Guangyu Sun](http://ceca.pku.edu.cn/en/people_/faculty_/guangyu_sun/).
 My research primarily focuses on alleviating the memory wall problem through architectural and system innovations, particularly in deep learning scenarios (e.g., LLM inference and serving, large embedding model inference, and emerging algorithms).
 I have published as the (co-)first author in top-tier computer architecture/system conferences including **ISCA (won best paper award), ASPLOS, HPCA (won best paper award), DAC, PACT**.
 
@@ -47,8 +47,13 @@ I have published as the (co-)first author in top-tier computer architecture/syst
 
 # Industrial Experience
 
++ **Moonshot AI**
+  + AI Infra Intern (Jun. 2026 - Now)
+  + Mentor: Ming Wei
+  + Topic: (1) High-performance expert parallelism (EP) communication library development ([MoonEP](https://github.com/MoonshotAI/MoonEP)). (2) High-performance mega-kernel development for communication-computation operator fusion.
+
 + **Alibaba Damo Academy**
-  + Research Intern (Nov. 2025 - Now)
+  + Research Intern (Nov. 2025 - May 2025)
   + Mentor: Boqiang Wu, Dimin Niu
   + Topic: (1) Architecture design for 3D-DRAM-based LLM serving accelerator. (2) Operator optimization for 3D-DRAM-based LLM serving accelerator.
 
@@ -68,17 +73,9 @@ I have published as the (co-)first author in top-tier computer architecture/syst
 + HPCA Best Paper Honorable Mention: 2025 (2 positions)
 + HPCA Best Paper Award: 2023 (2 positions, first time in China)
 
-**Scholarships**
+**Selected Scholarships**
 
 + Bytedance Scholarship: 2025 (20 graduate sutdents in China/Singapore)
 + China National Scholarship: 2024 (top 2%)
 + President Award of Peking University: 2023, 2024 (top 2%)
-+ Huawei Scholarship: 2023, 2025
-+ Third Prize of Peking University Scholarship: 2023
 + Excellent Graduate, Peking University: 2022
-+ Yang Xin Lotus Virtue Awards (Scholarship), Peking University: 2021
-+ Shenzhen Stock Exchange Scholarship, Peking University: 2020
-+ Founder Scholarship, Peking University: 2019
-+ Merit Student, Peking University: 2019, 2020, 2021 (Undergraduate), 2023, 2024 (Graduate)
-
-

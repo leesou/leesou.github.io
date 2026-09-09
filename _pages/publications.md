@@ -7,10 +7,30 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=x_cc57EAAAAJ).
 
+## Technical Reports
+
+### 2026
+
+[**Kimi k3: Open frontier intelligence**](/publications/2026-6-k3)
++ Kimi Team
+
+
 ## Conference Papers
 
 
 ### 2026
+
+[**ATLAS: Pathfinding Efficient 3D-DRAM-based LLM Inference Accelerator Design via Silicon-Proven Full-Stack Simulation**](/publications/2026-4-atlas)
++ **Cong Li**, Chenhao Xue, Yi Ren, Xiping Dong, Yinbo Hu, Fujun Bai, Yixin Guo, Xiping Jiang, Qiang Wu, Zhi Yang, Zhe Cheng, Yuan Xie, Guangyu Sun
++ International Symposium on Microarchitecture **(MICRO)**, 2026
+
+[**Helios: Enabling Dynamic KV Cache Management for Near-Memory Processing via Hybrid-Bonding-based 3D-DRAM**](/publications/2026-3-helios)
++ **Cong Li**, Yihan Yin, Chenhao Xue, Zhao Wang, Fujun Bai, Yixin Guo, Xiping Jiang, Qiang Wu, Yuan Xie, Guangyu Sun
++ International Symposium on Microarchitecture **(MICRO)**, 2026
+
+[**CODA: Algorithm-Hardware Co-design for Edge Video Diffusion via NMP-Enabled Compute-Cache Operator Disaggregation**](/publications/2026-5-coda)
++ Yuanpeng Zhang, Yuxuan Wu, Yitong Xiao, Chenhao Xue, Yi Ren, **Cong Li**, Yihan Yin, Dimin Niu, Guangyu Sun
++ International Symposium on Microarchitecture **(MICRO)**, 2026
 
 [**Tetris: Efficient Long-context LLM Serving with Chunkwise Dynamic Sequence Parallelism**](/publications/2026-2-tetris)
 + **Cong Li**, Yuzhe Yang, Xuegui Zheng, Qifan Yang, Yijin Guan, Size Zheng, Li-Wen Chang, Shufan Liu, Xin Liu, Guangyu Sun
